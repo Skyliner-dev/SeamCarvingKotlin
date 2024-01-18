@@ -56,6 +56,6 @@ Finally recurring removal of seams by the continous resultant image by desired r
 >> args[3] represent the output image
 >> args[5] represents the width to reduce
 >> args[7] represents the height to reduce
->> Reduced by 125 w 50 h
+>>> Reduced by 125 w 50 h
 
 ![image](https://github.com/Skyliner-dev/SeamCarvingKotlin/assets/109461607/c7ac3375-aef6-4d96-9261-8e44ad013b50)
