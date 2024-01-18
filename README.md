@@ -47,7 +47,7 @@ Transposing the image and using the same code can give the horizontal seam:
 ## Stage 6
 
 Finally recurring removal of seams by the continous resultant image by desired reduction in width and height mention in CLI produces the carved image we needed
-####Note
+#### Note
 - Please note that iterating with resultant images can be an expensive operation
 - Alternatively can track the rgb component of the initial image till the end and reduce it with list using Pair<>,Triple<> or custom data class.
  
